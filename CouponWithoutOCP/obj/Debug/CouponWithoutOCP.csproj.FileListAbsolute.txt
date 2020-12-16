@@ -1,0 +1,6 @@
+D:\pemrog lanjut\Minggu 1\OCP\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.exe.config
+D:\pemrog lanjut\Minggu 1\OCP\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.exe
+D:\pemrog lanjut\Minggu 1\OCP\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.pdb
+D:\pemrog lanjut\Minggu 1\OCP\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.csprojResolveAssemblyReference.cache
+D:\pemrog lanjut\Minggu 1\OCP\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.exe
+D:\pemrog lanjut\Minggu 1\OCP\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.pdb
