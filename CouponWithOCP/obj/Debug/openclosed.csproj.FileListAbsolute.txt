@@ -1,0 +1,6 @@
+D:\pemrog lanjut\Minggu 1\OCP\openclosed\openclosed\bin\Debug\openclosed.exe.config
+D:\pemrog lanjut\Minggu 1\OCP\openclosed\openclosed\bin\Debug\openclosed.exe
+D:\pemrog lanjut\Minggu 1\OCP\openclosed\openclosed\bin\Debug\openclosed.pdb
+D:\pemrog lanjut\Minggu 1\OCP\openclosed\openclosed\obj\Debug\openclosed.csprojResolveAssemblyReference.cache
+D:\pemrog lanjut\Minggu 1\OCP\openclosed\openclosed\obj\Debug\openclosed.exe
+D:\pemrog lanjut\Minggu 1\OCP\openclosed\openclosed\obj\Debug\openclosed.pdb
